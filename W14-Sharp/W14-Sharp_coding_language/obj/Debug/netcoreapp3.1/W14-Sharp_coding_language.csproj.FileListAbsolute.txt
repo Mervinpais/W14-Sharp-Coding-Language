@@ -1,0 +1,13 @@
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.exe
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.deps.json
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.runtimeconfig.json
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.runtimeconfig.dev.json
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.dll
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\bin\Debug\netcoreapp3.1\W14-Sharp_coding_language.pdb
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.csproj.AssemblyReference.cache
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.AssemblyInfoInputs.cache
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.AssemblyInfo.cs
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.csproj.CoreCompileInputs.cache
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.dll
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.pdb
+C:\Users\mervi\source\repos\W14-Sharp\W14-Sharp_coding_language\obj\Debug\netcoreapp3.1\W14-Sharp_coding_language.genruntimeconfig.cache

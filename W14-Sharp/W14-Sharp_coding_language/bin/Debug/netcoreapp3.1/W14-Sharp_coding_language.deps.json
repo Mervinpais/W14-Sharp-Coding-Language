@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "W14-Sharp_coding_language/1.0.0": {
+        "runtime": {
+          "W14-Sharp_coding_language.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W14-Sharp_coding_language/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
