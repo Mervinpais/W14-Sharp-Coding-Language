@@ -10,7 +10,7 @@ currently being supported with security updates.
 | ?.?.x   | ❔❔❔              |
 | ?.?.x   | ❔❔❔              |
 | ?.?.x   | ❔❔❔              |
-| 1.2.x   | ❔❔❔              |
+| 1.2.x   | (In-development 👨‍💻)|
 | 1.1.x   | :white_check_mark: |
 | 1.0.x   | :white_check_mark: |
 ## Reporting a Vulnerability
