@@ -7,4 +7,3 @@ If you are interested, please help me with some bugs, since im no the best begin
 Changelog 23/6/2021;
 Fixed bugs
 -New repeat feature
-|-----------------------|
