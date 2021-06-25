@@ -9,6 +9,7 @@ namespace W14_Sharp_coding_language
         public static String code1 = "missing/unused code";
         public static String code2 = "missing/unused code";
         public static int repeat_times;
+        public static String store_the_code1;
     }
 
     class Program
@@ -36,17 +37,17 @@ namespace W14_Sharp_coding_language
                     {
                         Console.WriteLine("What text do you want to display");
                         //program_working = false;
-                        string say_varbiable_string_say_command = Console.ReadLine();
-                        if (say_varbiable_string_say_command != "Say")
+                        string say_var_string_say_command = Console.ReadLine();
+                        if (say_var_string_say_command != "Say")
                         {
-                            string store_the_code1 = say_varbiable_string_say_command;
+                            Global.store_the_code1 = say_var_string_say_command;
                             //Console.WriteLine("===Code Set===");
                             //Console.WriteLine("Compiling code...");
                             //System.Threading.Thread.Sleep(1000);
                             //Console.WriteLine(store_the_code0);
 
                             //Console.WriteLine(say_varbiable_string_say_command);
-                            Global.code1 = store_the_code1;
+                            Global.code1 = Global.store_the_code1;
                         }
                         else
                         {
@@ -61,10 +62,10 @@ namespace W14_Sharp_coding_language
                     if (codeline == "repeat")
                     {
                         Console.WriteLine("what command would you like to repeat(type in the command name only)");
-                        string say_varbiable_string_repeat_command = Console.ReadLine();
+                        string say_var_string_repeat_command = Console.ReadLine();
                         Console.WriteLine("now how many times?(enter an int/a number only");
                         Global.repeat_times = Convert.ToInt32(Console.ReadLine());
-                        Global.code2 = say_varbiable_string_repeat_command;
+                        Global.code2 = say_var_string_repeat_command;
                     }
 
                     if (codeline == "")
@@ -100,11 +101,11 @@ namespace W14_Sharp_coding_language
                         System.Threading.Thread.Sleep(2000);
                         Console.WriteLine("===Your Code should be below this message===");
                         Console.WriteLine("");
-                        Console.WriteLine("Say " + "'" + Global.code1 + "'");
+                        Console.WriteLine(Global.store_the_code1 + "==" + Global.code1);
                         Console.WriteLine("");
                         Console.WriteLine("Repeat " + "'" + Global.code2 + "'" + " for " + "'" + Global.repeat_times + "'" + " amount of times");
                         Console.WriteLine("=================================================");
-                        Console.WriteLine("If the code is having the text set to 'missing/unused code', this means that the code is null(which means 'nothing') so the shell sets it to 'missing/unused code' so the program doesn't break");
+                        Console.WriteLine("If the code is having the text set to 'missing/unused code', this means that the code is null. So, the shell sets it to 'missing/unused code' so the program doesn't break");
                         Console.WriteLine("=================================================");
                     }
                 }
