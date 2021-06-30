@@ -6,4 +6,8 @@
     <RootNamespace>W14_Sharp_coding_language</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
 </Project>
